@@ -42,7 +42,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
    git clone https://github.com/stoyann-open-classrooms/data_pilot_api_V1.git
    ```
 
-   2. Accédez au répertoire du projet : `cd data_pilot_api_v1`
+2. Accédez au répertoire du projet : `cd data_pilot_api_v1`
 3. Installez les dépendances : `npm install`
 
 ## Configuration
