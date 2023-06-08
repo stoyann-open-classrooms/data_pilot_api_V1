@@ -49,6 +49,9 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 1. Créez un fichier `.env` à la racine du projet.
 2. Définissez les variables d'environnement suivantes dans le fichier `.env` :
    - `MONGODB_URI` : URL de connexion à votre base de données MongoDB.
+   - `NODE_ENV` : developement ou production.
+   - `PORT` : Port de l'application
+
 
 
 <!-- UTILISATION -->
