@@ -70,21 +70,7 @@ npm run start
 ```
 
 
-Les contributions sont les bienvenues ! Pour contribuer au projet, veuillez suivre les étapes suivantes :
-
-Fork le projet.
-Créez une branche pour votre fonctionnalité (git checkout -b feature/AmazingFeature).
-Faites vos modifications et committez-les (git commit -m 'Ajouter une fonctionnalité incroyable').
-Pushez vers la branche (git push origin feature/AmazingFeature).
-Ouvrez une Pull Request.
 
 
-<!-- LICENSE -->
-License
-Ce projet est distribué sous la licence ISC. Consultez le fichier LICENSE pour plus d'informations.
-
-<!-- CONTACT -->
-Contact
-Stoyann VELTEN - GitHub - LinkedIn
 
 Lien vers le projet : https://github.com/stoyann-open-classrooms/data_pilot_api_V1
