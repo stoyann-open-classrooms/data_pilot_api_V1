@@ -1,68 +1,73 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
-<!--
-*** Merci d'avoir consulté notre modèle de README. Si vous avez des suggestions
-*** pour l'améliorer, veuillez forker le dépôt et créer une pull request
-*** ou simplement ouvrir un problème avec le tag "enhancement".
-*** N'oubliez pas de donner une étoile au projet !
-*** Merci encore ! Maintenant, créez quelque chose d'INCROYABLE ! :D
--->
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** Nous utilisons des liens en format markdown pour plus de lisibilité.
-*** Les liens de référence sont entre crochets [ ] au lieu de parenthèses ( ).
-*** Voir le bas de ce document pour la déclaration des variables de référence
-*** pour contributors-url, forks-url, etc. Il s'agit d'une syntaxe facultative et concise que vous pouvez utiliser.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-(!(Forks)(forks-shield))(https://github.com/stoyann-open-classrooms/data_pilot_api_V1/forks)
-[![Problèmes][issues-shield]](https://github.com/stoyann-open-classrooms/data_pilot_api_V1/issues)
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/feed/)
-
-
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <h3 align="center">Votre projet</h3>
+<p align="center">
+  <img src="logo.png" alt="Logo" width="80" height="80">
+</p>
 
-  <p align="center">
-    Description de votre projet.
-    <br />
-    <a href="https://github.com/votre_utilisateur/votre_projet"><strong>Explorer la documentation »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/votre_utilisateur/votre_projet">Voir la démo</a>
-    ·
-    <a href="https://github.com/votre_utilisateur/votre_projet/issues">Signaler un bug</a>
-    ·
-    <a href="https://github.com/votre_utilisateur/votre_projet/issues">Demander une fonctionnalité</a>
-  </p>
-</div>
+<!-- PROJECT TITLE -->
+<h1 align="center">Data Pilot API V1</h1>
 
+<!-- PROJECT DESCRIPTION -->
+<p align="center">
+  Backend API de l'application Data Pilot NC.
+</p>
 
+<!-- TABLE OF CONTENTS -->
+## Table des matières
 
-<!-- TABLE DES MATIÈRES -->
-<details>
-  <summary>Table des matières</summary>
-  <ol>
-    <li>
-      <a href="#à-propos-du-projet">À propos du projet</a>
-      <ul>
-        <li><a href="#construit-avec">Construit avec</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#démarrage">Démarrage</a>
-      <ul>
-        <li><a href="#prérequis">Prérequis</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#utilisation">Utilisation</a></li>
-    <li><a href="#feuille-de-route">Feuille de route</a></li>
-    <li><a href="#contribuer">Contribuer</a></li>
-    <li><a href="#licence">Licence</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#remerciements">Remerciements</a
+- [Table des matières](#table-des-matières)
+- [À propos du projet](#à-propos-du-projet)
+- [Prérequis](#prérequis)
+- [Installation](#installation)
+
+<!-- ABOUT THE PROJECT -->
+## À propos du projet
+
+La Data Pilot API V1 est le backend de l'application Data Pilot NC. Cette API permet de gérer les données de l'application et de fournir des fonctionnalités avancées aux utilisateurs.
+
+<!-- PRÉREQUIS -->
+## Prérequis
+
+Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre machine :
+
+- Node.js
+- NPM (Node Package Manager)
+
+<!-- INSTALLATION -->
+## Installation
+
+1. Clonez le dépôt :
+   ```sh
+   git clone https://github.com/stoyann-open-classrooms/data_pilot_api_V1.git
+
+<!-- UTILISATION -->
+## Utilisation
+
+Pour lancer l'API en mode de développement, utilisez la commande suivante :
+
+```sh
+npm run dev
+```
+
+Pour lancer l'API en mode de production, utilisez la commande suivante :
+
+```sh
+npm run start
+```
+
+Contribuer
+Les contributions sont les bienvenues ! Pour contribuer au projet, veuillez suivre les étapes suivantes :
+
+Fork le projet.
+Créez une branche pour votre fonctionnalité (git checkout -b feature/AmazingFeature).
+Faites vos modifications et committez-les (git commit -m 'Ajouter une fonctionnalité incroyable').
+Pushez vers la branche (git push origin feature/AmazingFeature).
+Ouvrez une Pull Request.
+<!-- LICENSE -->
+License
+Ce projet est distribué sous la licence ISC. Consultez le fichier LICENSE pour plus d'informations.
+
+<!-- CONTACT -->
+Contact
+Stoyann VELTEN - GitHub - LinkedIn
+
+Lien vers le projet : https://github.com/stoyann-open-classrooms/data_pilot_api_V1
