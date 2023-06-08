@@ -1,0 +1,5 @@
+# Lancer l'application en mode developement 
+`npm run dev`
+
+# Lancer l'application en mode production
+`npm run start`
