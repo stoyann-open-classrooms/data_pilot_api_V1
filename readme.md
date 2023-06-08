@@ -17,13 +17,9 @@
 *** pour contributors-url, forks-url, etc. Il s'agit d'une syntaxe facultative et concise que vous pouvez utiliser.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributeurs][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Étoiles][stars-shield]][stars-url]
-[![Problèmes][issues-shield]][issues-url]
-[![Licence MIT][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
+[![Forks][forks-shield]](https://github.com/stoyann-open-classrooms/data_pilot_api_V1/forks)
+[![Problèmes][issues-shield]](https://github.com/stoyann-open-classrooms/data_pilot_api_V1/issues)
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/feed/)
 
 
 <!-- PROJECT LOGO -->
