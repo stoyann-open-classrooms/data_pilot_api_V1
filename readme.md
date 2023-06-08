@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="logo.png" alt="Logo" width="80" height="80">
+  <img src="./images/JPMB_icon.png" alt="Logo" width="80" height="80">
 </p>
 
 <!-- PROJECT TITLE -->
@@ -54,7 +54,7 @@ Pour lancer l'API en mode de production, utilisez la commande suivante :
 npm run start
 ```
 
-Contribuer
+
 Les contributions sont les bienvenues ! Pour contribuer au projet, veuillez suivre les étapes suivantes :
 
 Fork le projet.
@@ -62,6 +62,8 @@ Créez une branche pour votre fonctionnalité (git checkout -b feature/AmazingFe
 Faites vos modifications et committez-les (git commit -m 'Ajouter une fonctionnalité incroyable').
 Pushez vers la branche (git push origin feature/AmazingFeature).
 Ouvrez une Pull Request.
+
+
 <!-- LICENSE -->
 License
 Ce projet est distribué sous la licence ISC. Consultez le fichier LICENSE pour plus d'informations.
